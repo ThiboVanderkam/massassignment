@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "RB/ipTXkZTtAcU5yvxxyu92lRmGBk5+HHP+j29fnwbq2i6ssc2Y4+YYHKvYF9D2T9pXbAgAhTGWGLvwGNfzISA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thibo\\Documents\\IMS\\Fase 2\\Semester 2\\Incompany Project\\MassAssignment\\MassAssignment\\MassAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thibo\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512",
+    "C:\\Users\\thibo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\thibo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thibo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\thibo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\thibo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\thibo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\thibo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
