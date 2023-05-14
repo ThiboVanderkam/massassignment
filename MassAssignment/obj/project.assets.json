@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thibo\\Documents\\IMS\\Fase 2\\Semester 2\\Incompany Project\\MassAssignment\\MassAssignment\\MassAssignment.csproj",
+      "projectUniqueName": "C:\\Users\\thibo\\Documents\\IMS\\Fase 2\\Semester 2\\Incompany Project\\maRepo\\massassignment\\MassAssignment\\MassAssignment.csproj",
       "projectName": "MassAssignment",
-      "projectPath": "C:\\Users\\thibo\\Documents\\IMS\\Fase 2\\Semester 2\\Incompany Project\\MassAssignment\\MassAssignment\\MassAssignment.csproj",
+      "projectPath": "C:\\Users\\thibo\\Documents\\IMS\\Fase 2\\Semester 2\\Incompany Project\\maRepo\\massassignment\\MassAssignment\\MassAssignment.csproj",
       "packagesPath": "C:\\Users\\thibo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thibo\\Documents\\IMS\\Fase 2\\Semester 2\\Incompany Project\\MassAssignment\\MassAssignment\\obj\\",
+      "outputPath": "C:\\Users\\thibo\\Documents\\IMS\\Fase 2\\Semester 2\\Incompany Project\\maRepo\\massassignment\\MassAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thibo\\AppData\\Roaming\\NuGet\\NuGet.Config",

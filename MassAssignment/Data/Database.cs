@@ -18,7 +18,7 @@ namespace MassAssignment.Data
             _db.GetCollection<User>(_USERS).Insert(user);
         }
 
-        public bool UpdateUser(int id, User inputUser)
+        public bool UpdateUsername(int id, User inputUser)
         {
             User user = _db.GetCollection<User>(_USERS).FindById(id);
             if (user == null) return false;

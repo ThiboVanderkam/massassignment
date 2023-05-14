@@ -32,9 +32,9 @@ namespace MassAssignment
         }
 
         [HttpPut]
-        public ActionResult UpdateUser(int id, User user)
+        public ActionResult UpdateUsername(int id, User user)
         {
-            if (_data.UpdateUser(id, user)) return Ok("User Updated");
+            if (_data.UpdateUsername(id, user)) return Ok("User Updated");
             return BadRequest("User not found");
         }
 
